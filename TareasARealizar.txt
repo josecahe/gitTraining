@@ -1,2 +1,6 @@
 #En este documento se especifican las tareas a realizar en el equipo.
 
+1. Crear una pagina Web sencilla en el index
+2. Añadir una funcionalidad con un boton sencillo. Debe saltar una alerta cuando se presione.
+3. Subir la cancion de Marshmillo y SJNarvaes y hacerlos famosos
+4. Cobrar por los derechos de autor :)
